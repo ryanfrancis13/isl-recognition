@@ -1,0 +1,28 @@
+# Python bytecode & packaging
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# Virtual environments
+venv/
+.venv/
+
+# Raw & processed datasets (stored locally / released separately)
+data/
+
+# Trained model checkpoints & temporary outputs
+artifacts/*.keras
+artifacts/*.npz
+
+# Testing & linting caches
+.pytest_cache/
+.ruff_cache/
+
+# IDE & OS files
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
+

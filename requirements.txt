@@ -1,0 +1,13 @@
+# Core ML & Vision (Requires Python 3.10)
+tensorflow==2.15.0
+mediapipe==0.10.14
+numpy==1.26.4
+opencv-contrib-python==4.8.1.78
+scikit-learn==1.7.2
+matplotlib==3.10.9
+PyYAML==6.0.2
+
+# Dev tools
+pytest==8.3.3
+ruff==0.7.3
+
